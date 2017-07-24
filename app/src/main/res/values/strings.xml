@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Link Development</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="explore">Explore</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="gallery">Gallery</string>
+    <string name="wish_list">Wish List</string>
+    <string name="e_magazine">E-Magazine</string>
+    <string name="connect_to_internet">Connected to Internet</string>
+    <string name="not_connected">Sorry! Not connected to internet</string>
+    <string name="not_found">Not Found</string>
+    <string name="activity_title">Link Development</string>
+    <string name="by">By</string>
+    <string name="open_website">Open website</string>
+    <string name="welcome">Welcome</string>
+    <string name="tony_roshdy">Tony Roshdy</string>
+    <string name="no_data_available">No Data Available</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/card_view_margin"
+    android:paddingBottom="@dimen/card_view_padding_bottom_main"
+    card_view:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/article_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/article_image_view_height"
+            android:layout_gravity="center"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/article_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="@dimen/article_title_padding_right"
+            android:paddingStart="@dimen/article_title_padding_left"
+            android:paddingTop="@dimen/article_title_padding_top"
+            android:textColor="@color/title_text_color" />
+
+        <TextView
+            android:id="@+id/author_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="@dimen/author_name_padding_right_main"
+            android:paddingStart="@dimen/author_name_padding_left_main"
+            android:textColor="@color/text_color" />
+
+        <TextView
+            android:id="@+id/article_date_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingBottom="@dimen/article_date_padding_bottom_main"
+            android:paddingEnd="@dimen/article_date_padding_right_main"
+            android:paddingStart="@dimen/article_date_padding_left_main"
+            android:textColor="@color/text_color" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

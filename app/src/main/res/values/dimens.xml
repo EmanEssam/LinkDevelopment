@@ -1,0 +1,39 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">32dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_view_margin_layout">5dp</dimen>
+    <dimen name="card_view_padding_bottom">30dp</dimen>
+    <dimen name="image_view_details_height">200dp</dimen>
+    <dimen name="date_tv_margin">1dp</dimen>
+    <dimen name="article_date_padding_bottom">10dp</dimen>
+    <dimen name="article_date_padding_end">10dp</dimen>
+    <dimen name="title_details_padding_left">16dp</dimen>
+    <dimen name="title_details_padding_right">16dp</dimen>
+    <dimen name="author_name_padding_left">16dp</dimen>
+    <dimen name="author_name_padding_right">16dp</dimen>
+    <dimen name="desc_padding">16dp</dimen>
+    <dimen name="btn_margin">5dp</dimen>
+    <dimen name="btn_margin_top">20dp</dimen>
+    <dimen name="title_details_margin_top">10dp</dimen>
+    <dimen name="nav_header_margin_top">16dp</dimen>
+    <dimen name="header_arrow_margin_top">16dp</dimen>
+    <dimen name="article_list_margin_top">30dp</dimen>
+    <dimen name="list_container_padding">8dp</dimen>
+    <dimen name="list_container_margin_top">32dp</dimen>
+    <dimen name="card_view_margin">5dp</dimen>
+    <dimen name="card_view_padding_bottom_main">10dp</dimen>
+    <dimen name="article_image_view_height">200dp</dimen>
+    <dimen name="article_title_padding_left">16dp</dimen>
+    <dimen name="article_title_padding_right">16dp</dimen>
+    <dimen name="article_title_padding_top">16dp</dimen>
+    <dimen name="author_name_padding_left_main">16dp</dimen>
+    <dimen name="author_name_padding_right_main">16dp</dimen>
+    <dimen name="article_date_padding_bottom_main">16dp</dimen>
+    <dimen name="article_date_padding_left_main">16dp</dimen>
+    <dimen name="article_date_padding_right_main">16dp</dimen>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_explore"
+            android:icon="@drawable/explore"
+            android:title="@string/explore" />
+        <item
+            android:id="@+id/nav_live_chat"
+            android:icon="@drawable/live"
+            android:title="@string/live_chat" />
+        <item
+
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/gallery"
+            android:title="@string/gallery" />
+        <item
+            android:id="@+id/nav_wish_list"
+            android:icon="@drawable/wishlist"
+            android:title="@string/wish_list" />
+        <item
+            android:id="@+id/nav_e_magazine"
+            android:icon="@drawable/e_magazine"
+            android:title="@string/e_magazine" />
+    </group>
+
+
+</menu>
